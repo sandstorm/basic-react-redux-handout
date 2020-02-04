@@ -8,6 +8,8 @@
 * [reselect](https://github.com/reduxjs/reselect) Memoization library to cache function calculations
 * [React Router](https://reacttraining.com/react-router/web/guides/quick-start) Very popular library to do client side routing in react
 * [styled-components](https://styled-components.com/) Awesome react styling library
+* [rex-tils](https://github.com/Hotell/rex-tils) Useful set of typescript utilities for redux and redux-observable
+* [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) Great and relatively simple drag & drop library for react
 
 
 ## Tools
@@ -22,11 +24,6 @@
 
 * [React-Training-Examples](https://gitlab.sandstorm.de/public-training-material/react-redux-trainings-examples) Training examples directly built for our trainings
 * [Aeons End Randomizer](https://github.com/on3iro/aeons-end-randomizer) Example project using lots of best practices, React, Redux, Redux-Loop, styled-components and React-Router
-
-
-## Other articles
-
-* [Redux-Async-Middleware-Comparison](https://sandstorm.de/de/blog/post/async-redux-middleware-comparison.html) Comparison of various popular async middlewares
 
 
 ## Sandstorm related
