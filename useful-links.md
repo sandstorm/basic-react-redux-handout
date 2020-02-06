@@ -22,7 +22,7 @@
 
 ## Example projects
 
-* [React-Training-Examples](https://gitlab.sandstorm.de/public-training-material/react-redux-trainings-examples) Training examples directly built for our trainings
+* [React-Training-Examples](https://github.com/sandstorm/basic-reac-redux-training-examples) Training examples directly built for our trainings
 * [Aeons End Randomizer](https://github.com/on3iro/aeons-end-randomizer) Example project using lots of best practices, React, Redux, Redux-Loop, styled-components and React-Router
 
 
