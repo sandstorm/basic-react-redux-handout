@@ -2,6 +2,7 @@
 
 This repository serves as a living handout for our basic react trainings.
 We will constantly update and extend the provided content.
+If you spot an error or have any suggestions, feel free to open an issue.
 
 ## ToC
 
