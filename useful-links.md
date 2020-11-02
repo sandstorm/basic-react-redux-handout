@@ -27,6 +27,7 @@
 * [immer](https://immerjs.github.io/immer/docs/introduction) Library to immutably handle state
 * [jest](https://jestjs.io/) Batteries included testing framework for JS/TS
 * [Create-React-App](https://create-react-app.dev/) Great tool for bootstrapping React apps (**highly recommended!**)
+* [Awesome lists](https://github.com/sindresorhus/awesome) Useful list of useful lists of basically anything ;)
 
 
 ## Example projects
