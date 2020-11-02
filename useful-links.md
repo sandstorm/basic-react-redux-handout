@@ -18,6 +18,7 @@
 * [MDN](https://developer.mozilla.org/) Great documentation for almost everything web related
 * [Typescript Docs](https://www.typescriptlang.org/docs/) Documentation of microsofts extremely popular static typing library
 * [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) Great typescript learning resource
+* [Definitely Typed](https://definitelytyped.org/) Tool to easily find TS type definitions for third party libraries
 * [Prettier](https://prettier.io/) Opinionated Formatting-Tool
 * [Pretty-Quick](https://github.com/azz/pretty-quick) Tool to easily run prettier with git hooks
 * [ESLint](https://eslint.org/) Tool to enforce code rule sets inside projects
