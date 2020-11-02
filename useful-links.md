@@ -18,6 +18,14 @@
 * [MDN](https://developer.mozilla.org/) Great documentation for almost everything web related
 * [Typescript Docs](https://www.typescriptlang.org/docs/) Documentation of microsofts extremely popular static typing library
 * [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) Great typescript learning resource
+* [Prettier](https://prettier.io/) Opinionated Formatting-Tool
+* [Pretty-Quick](https://github.com/azz/pretty-quick) Tool to easily run prettier with git hooks
+* [ESLint](https://eslint.org/) Tool to enforce code rule sets inside projects
+* [eslint-plugin-functional](https://github.com/jonaskello/eslint-plugin-functional) Useful rule set for eslint to enforce immutability and other functional concepts
+* [immutableJS](https://immutable-js.github.io/immutable-js/) Helper library providing access to data structures and functions to work immutably
+* [immer](https://immerjs.github.io/immer/docs/introduction) Library to immutably handle state
+* [jest](https://jestjs.io/) Batteries included testing framework for JS/TS
+* [Create-React-App](https://create-react-app.dev/) Great tool for bootstrapping React apps (**highly recommended!**)
 
 
 ## Example projects
