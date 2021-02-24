@@ -26,7 +26,7 @@ const add2 = (x) => {
 const add = (x, y) => {
   console.log(x, y);
   return x + y;
-}; // => pure, because loggin is IO
+}; // => impure, because loggin is IO
 
 const greetingPhrase = "Hi";
 const greet = (name) => {
@@ -216,15 +216,21 @@ const {name, ...newObject} = person; // => newObject omits the name property
 * A closure is a function bundled with its lexical environment
 * Remembers its surrounding scope it was defined in e.g. variable declarations
 
-```js
-// Closure examples
+##### Example 1
 
-const greeting = 'Good morning' ;
+```js
+const greeting = 'Good morning';
 
 const greet = (name) => {
   return `${greeting} ${name}`;
 }
 
+greet('Matthilda M.'); // => 'Good morning Matthilda M.'
+```
+
+##### Example 2
+
+```js
 const greeterFactory = (salutation) => {
   const greeting = 'Good morning';
 
